@@ -1,8 +1,8 @@
 # React-native-firebase
 
-_Expo app with react-native and firebase_
+_Expo app with react-native-firebase_
 
-## Comenzando 🚀
+## Starting 🚀
 
 _These instructions allow you to get a copy of the project running on your local machine for development and testing purposes._
 
@@ -23,7 +23,7 @@ node --version
 [React Native Elements](https://reactnativeelements.com/)
 [Firebase](https://firebase.google.com/docs?hl=es)
 
-### Instalación 🔧
+### Installation 🔧
 
 ```
 npm install
